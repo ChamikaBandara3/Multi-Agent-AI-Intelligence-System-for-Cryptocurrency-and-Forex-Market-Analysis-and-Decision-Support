@@ -1,6 +1,7 @@
 # Multi-Agent AI Intelligence System for Cryptocurrency and Forex Market Analysis and Decision Support
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yfcpobvdiemae6ybzrjtuz.streamlit.app/)  
+🚀 **Live Streamlit App**: [https://yfcpobvdiemae6ybzrjtuz.streamlit.app/](https://yfcpobvdiemae6ybzrjtuz.streamlit.app/)  
 **Course**: IT41043 — Intelligent Systems / Agentic AI  
 **Institution**: Horizon Campus — Faculty of Information Technology  
 **Project Type**: Option A — Real-World Problem / Financial Decision Support  
